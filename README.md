@@ -1,7 +1,7 @@
 # secret_project
 very secret
 > INCREIBLE
-for int i
+for int i = 0;
 > MUCH SECRET
 
 > DOGE
