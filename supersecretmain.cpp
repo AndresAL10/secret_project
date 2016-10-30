@@ -1,13 +1,15 @@
 void evil()
 {
  cout << "goto";
- evil();
+ for (int i = 0; i < 1000000; i++)
+  evil();
 }
 
 
 int main()
 {
   string secret = "super secret string";
-  evil();
+  while(true)
+   evil();
   return 0;
 }
