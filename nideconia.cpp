@@ -8,5 +8,7 @@ int main(){
 
   std::cout << "HAN CANTADO BINGO";
   
+  std::cout << "EL GANADOR ES:";
+  
   return 0;
 }
