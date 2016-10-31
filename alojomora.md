@@ -23,7 +23,7 @@ Tu hijo es un cabrón, tú no lo sabe, tú no lo sabe, maricarmen
 Una vez estuve yo en la playa, y pensé... Me pregunto que haría un pato si lo lanzásemos al mar. A lo que respondí... Seguramente... nada! jajaja
 Qué chispa, tiene tanta chispa como nuestro amigo nada corriente Amper, qué chico tan extraño :D
 
--Agradecimientos-
+--Agradecimientos--
 He de dar las gracias a mi familia por haber estado siempre ahí para apoyarme, no sé qué haría yo sin vosotros la verdad, me llena de orgullo y satisfacción tener a alguien como vosotros, un amigo en quien confiar y un codo en el que llorar, no me tires más del moño que me vas a comer to el... nonono
 
 Muchas gracias por su comparmsurención y espero vuestra próxima entrega :-)
