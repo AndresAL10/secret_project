@@ -1,6 +1,6 @@
 # Los secretos de la magia
 
-## ¿Cree usted conocer los secretos de la magia?
+## ¿Cree usted conocer los secretos de la magia
 
 Siguiendo la historia aquí se nos presenta a un chico casi normal, casi corriente, Ampher, un chico que nunca llamó la atención. Pero que siempre tuvo una chispa en sus ojos.
 
@@ -27,3 +27,5 @@ Qué chispa, tiene tanta chispa como nuestro amigo nada corriente Amper, qué ch
 He de dar las gracias a mi familia por haber estado siempre ahí para apoyarme, no sé qué haría yo sin vosotros la verdad, me llena de orgullo y satisfacción tener a alguien como vosotros, un amigo en quien confiar y un codo en el que llorar, no me tires más del moño que me vas a comer to el... nonono
 
 Muchas gracias por su comparmsurención y espero vuestra próxima entrega :-)
+
+Gracias de nuevo!
