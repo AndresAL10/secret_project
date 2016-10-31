@@ -73,7 +73,7 @@ void Jugador::IncrementaGanadas(Tablero &tablero){
 }
 
 void Jugador::IncrementaPerdidas(){
-  perdidas++;
+  perdidas += 1;
 }
 
 void Jugador::IncrementaEmpatadas(){
