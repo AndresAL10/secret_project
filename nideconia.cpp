@@ -7,4 +7,6 @@ int main(){
   std::cout << bingo1 << endl;
 
   std::cout << "HAN CANTADO BINGO";
+  
+  return 0;
 }
